@@ -6,5 +6,5 @@ La licence MIT donne aux utilisateurs la permission manifeste de réutiliser le 
 
 RageUI par https://github.com/ImBaphomettt
 
-Magasin de nourriture
++ Magasin de nourriture
 + Magasin de téléphonie 
