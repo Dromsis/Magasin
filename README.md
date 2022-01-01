@@ -1,4 +1,4 @@
-# Magasin
+# ESX Magasin
 
 Concédé en OpenSource via licence MIT
 
